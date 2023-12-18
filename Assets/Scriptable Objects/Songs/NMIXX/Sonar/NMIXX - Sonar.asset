@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 523135e65dd08e4479b94029c931c3c1, type: 3}
+  m_Name: NMIXX - Sonar
+  m_EditorClassIdentifier: 
+  _audioClip: {fileID: 8300000, guid: 5c50f8bfc54d6924ead221b34a2e7721, type: 3}
+  _delayBeats: 5.3
+  _bpm: 125.5
+  _noteComposition: {fileID: 105196967514761165, guid: 11082aeebf7f5f4449fad3a2ee7bea8f, type: 3}

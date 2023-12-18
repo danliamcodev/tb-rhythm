@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3808b740b61590b419a51566f9d59796, type: 3}
+  m_Name: NMIXX - Sonar_Intro
+  m_EditorClassIdentifier: 
+  _notePatterns:
+  - _notePatternType: {fileID: 11400000, guid: ae24bf5acbd87f244b2ddc453d4b6fb2, type: 2}
+    _initialDelay: 0
+    _startingNote:
+      _laneIndex: 3
+  - _notePatternType: {fileID: 11400000, guid: ae24bf5acbd87f244b2ddc453d4b6fb2, type: 2}
+    _initialDelay: 1
+    _startingNote:
+      _laneIndex: 3
+  - _notePatternType: {fileID: 11400000, guid: ae24bf5acbd87f244b2ddc453d4b6fb2, type: 2}
+    _initialDelay: 1
+    _startingNote:
+      _laneIndex: 0
+  - _notePatternType: {fileID: 11400000, guid: ae24bf5acbd87f244b2ddc453d4b6fb2, type: 2}
+    _initialDelay: 1
+    _startingNote:
+      _laneIndex: 0
+  - _notePatternType: {fileID: 11400000, guid: ae24bf5acbd87f244b2ddc453d4b6fb2, type: 2}
+    _initialDelay: 1
+    _startingNote:
+      _laneIndex: 3
+  - _notePatternType: {fileID: 11400000, guid: ae24bf5acbd87f244b2ddc453d4b6fb2, type: 2}
+    _initialDelay: 1
+    _startingNote:
+      _laneIndex: 3
+  - _notePatternType: {fileID: 11400000, guid: ae24bf5acbd87f244b2ddc453d4b6fb2, type: 2}
+    _initialDelay: 1
+    _startingNote:
+      _laneIndex: 0
+  - _notePatternType: {fileID: 11400000, guid: ae24bf5acbd87f244b2ddc453d4b6fb2, type: 2}
+    _initialDelay: 1
+    _startingNote:
+      _laneIndex: 0
+  - _notePatternType: {fileID: 11400000, guid: ae24bf5acbd87f244b2ddc453d4b6fb2, type: 2}
+    _initialDelay: 1
+    _startingNote:
+      _laneIndex: 3
+  - _notePatternType: {fileID: 11400000, guid: ae24bf5acbd87f244b2ddc453d4b6fb2, type: 2}
+    _initialDelay: 1
+    _startingNote:
+      _laneIndex: 3
+  - _notePatternType: {fileID: 11400000, guid: ae24bf5acbd87f244b2ddc453d4b6fb2, type: 2}
+    _initialDelay: 1
+    _startingNote:
+      _laneIndex: 0
+  - _notePatternType: {fileID: 11400000, guid: ae24bf5acbd87f244b2ddc453d4b6fb2, type: 2}
+    _initialDelay: 1
+    _startingNote:
+      _laneIndex: 0
+  - _notePatternType: {fileID: 11400000, guid: 91e9523c238935c45b335870c736f72f, type: 2}
+    _initialDelay: 1
+    _startingNote:
+      _laneIndex: 3
+  - _notePatternType: {fileID: 11400000, guid: 91e9523c238935c45b335870c736f72f, type: 2}
+    _initialDelay: 3
+    _startingNote:
+      _laneIndex: 2
